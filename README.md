@@ -2,7 +2,7 @@
 
 <table align="center">  <td>    <a href="https://github.com/LicYeifryuribe/Ense-anza-de-las-matem-ticas_/edit/main/README.md" > [Edit on GitHub]
 
-# Enseñanza de las matemáticas
+# Enseñanza de las matemáticas mediante instrumentos tecnológicos
 
 Al día de hoy hay muchas plataformas que nos ayudan a nosotros los educadores y en especial a los que tenemos un enfoque matemático como por ejemplo GitHub y Google Colab, GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos utilizando el sistema de control de versiones Git. Se utiliza principalmente para la creación de código fuente de programas de ordenador. El software que opera GitHub fue escrito en Ruby on Rails y Colab es un servicio gratuito de nube alojado por Google para fomentar la investigación sobre Aprendizaje de Máquina e inteligencia Artificial; éste tipo de herramientas nos facilitan procesos matemáticos como recopilación de datos, gráficos, tablas, pronosticar, etc. Pero ¿Por qué hablo de esto?, y la respuesta está en la fecha en la que estamos, Cada minuto se mandan más de 41 millones de mensajes de Whatsapp en el mundo, se suben 500 horas de video a YouTube y se publican más de 347.000 historias en Instagram según [El Orden Mundial](https://elordenmundial.com/mapas-y-graficos/mapa-acceso-internet-mundo/), dicho esto sabemos que desde mucho hace entramos en una era digital y que cada día la tecnología está más presente en nuestras vidas, por ello es fácil pensar que para dentro de unos años sólo -o en su mayoría- la tecnología será el medio de aprendizaje matemático para los niños, niñas y adolescentes del mundo. 
 
